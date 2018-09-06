@@ -209,6 +209,8 @@ Beginner
 * [Practical Common Lisp][206] - A good introductory text to Common Lisp, with practical examples.
 * [Common LISP: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html) - A nice introduction into the language.
 * [Learn LISP: Simply Easy Learning](http://www.tutorialspoint.com/lisp/index.htm) - A good set of introductory tutorials; includes interactive examples.
+* [Successful Lisp](http://successful-lisp.blogspot.com/) - A nice tutorial book to start lisp; press the download link to get to the book.
+* [Loving Lisp](https://leanpub.com/lovinglisp/read) - A nice introductory book with up to date (network, relational databases, NLP, scraping, machine learning) examples for practical application of the language.
 * [Common Lisp Koans][201] - The project guides the learner progressively through many Common Lisp language features.
 
 Intermediate
@@ -242,6 +244,8 @@ Beginner
 * [Land of Lisp](http://landoflisp.com/) - A fun, game-oriented introduction to Common Lisp.
 * [Practical Common Lisp][206] - A good introductory text to Common Lisp, with practical examples.
 * [Common Lisp Koans][201] - The project guides the learner progressively through many Common Lisp language features.
+* [Successful Lisp](https://www.amazon.com/Successful-Lisp-How-Understand-Common/dp/3937526005) - A nice tutorial book to start lisp.
+* [Loving Lisp](https://leanpub.com/lovinglisp) - A nice introductory book with up to date (network, relational databases, NLP, scraping, machine learning) examples for practical application of the language.
 
 Intermediate
 ------------
